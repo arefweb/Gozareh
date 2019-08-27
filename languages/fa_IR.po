@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-27 19:43+0430\n"
+"PO-Revision-Date: 2019-08-27 20:02+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2;"
+"esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "We're sorry, but the page you were looking for doesn't exist. "
+msgstr "متاسفانه صفحه مورد نظر شما موجود نمیباشد."
+
+#: 404.php:17
+msgid ""
+"Please try using our search box below to look for information on our site."
+msgstr "لطفا با استفاده از جعبه پایین، در اطلاعات سایت جستجو کنید."
+
+#: archive.php:21 index.php:21
+msgid "Sorry, no posts matched your criteria."
+msgstr "متاسفانه هیچ پستی برای نمایش وجود ندارد."
+
+#: comments.php:17
+#, php-format
+msgid "%1$s thought on \"%2$s\""
+msgid_plural "%1$s thoughts on \"%2$s\""
+msgstr[0] "%1$s نظر در: %2$s"
+msgstr[1] "%1$s نظر در: %2$s"
+
+#: comments.php:37
+msgid "Comment navigation"
+msgstr "ناوبری نظرات"
+
+#: comments.php:38
+msgid "&amp;« Older Comments"
+msgstr "نظرات قدیمی"
+
+#: comments.php:39
+msgid "Newer Comments &amp;»"
+msgstr "نظرات جدیدتر"
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "نظرات بسته شده‌اند"
+
+#: functions.php:35
+msgid "Top Menu"
+msgstr "منو‌ی سربرگ"
+
+#: functions.php:85
+msgid "Header Widget Area 1"
+msgstr "ناحیه ابزارک ۱در سربرگ"
+
+#: functions.php:87
+msgid "Recommended for widgets related to Social links. "
+msgstr "پیشنهاد میشود برای قرار دادن لینک های اجتماعی استفاده کنید"
+
+#: functions.php:95
+msgid "Header Widget Area 2"
+msgstr "ناحیه ابزارک ۲ در سربرگ"
+
+#: functions.php:97
+msgid "Recommended for widgets related to texts, phone numbers and etc. "
+msgstr "پیشنهاد میشود برای قراردادن متن، شماره تلفن و غیره استفاده شود"
+
+#: functions.php:105
+msgid "Primary Sidebar"
+msgstr "ستون کناری در وبلاگ"
+
+#: functions.php:107
+msgid "The main sidebar which appears in blog page and etc. "
+msgstr "ستون کناری که در وبلاگ و بقیه صفحات ظاهر میشود"
+
+#: functions.php:115
+msgid "Footer 1"
+msgstr "پابرگ ۱"
+
+#: functions.php:117
+msgid "Footer widget area one. "
+msgstr "ناحیه ابزارک در پابرگ ۱"
+
+#: functions.php:125
+msgid "Footer 2"
+msgstr "پابرگ ۲"
+
+#: functions.php:127
+msgid "Footer widget area two. "
+msgstr "ناحیه ابزارک در پابرگ ۲"
+
+#: functions.php:135
+msgid "Footer 3"
+msgstr "پابرگ ۳"
+
+#: functions.php:137
+msgid "Footer widget area three. "
+msgstr "ناحیه ابزارک در پابرگ ۳"
+
+#: functions.php:154
+msgid "READ MORE"
+msgstr "ادامه مطلب"
+
+#: functions.php:177 functions.php:187
+msgid "Copyright"
+msgstr "حق نشر"
+
+#: functions.php:178
+msgid "Add Copyright text here."
+msgstr "متن مربوط به حقوق ناشر را اینجا وارد کنید."
+
+#: functions.php:205
+msgid "Slide show [shortcode]"
+msgstr "اسلاید عکسها [shortcode]"
+
+#: functions.php:206
+msgid "Add your Slide show plugin's [shortcode] here."
+msgstr "[shortcode] مربوط به افزونه‌ی اسلاید عکسها را اینجا قراردهید."
+
+#: functions.php:215
+msgid "Front Page"
+msgstr "صفحه‌ی خانه"
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: search.php:19
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: search.php:32
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متاسفانه با عبارات جستجوی شما چیزی یافت نشد. لطفا دوباره با کلماتی جدید "
+"امتحان کنید."
+
+#: searchform.php:16
+msgid "Search &hellip;"
+msgstr "جستجو &hellip;"
+
+#: template-parts/page/full-width.php:25 template-parts/page/two-column.php:25
+#: template-parts/post/content.php:71
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: template-parts/post/content-audio.php:28
+#: template-parts/post/content-gallery.php:28
+#: template-parts/post/content-image.php:29
+#: template-parts/post/content-video.php:29 template-parts/post/content.php:30
+#: template-parts/post/content.php:54
+msgid "in"
+msgstr "در"
+
+#: template-parts/post/content-audio.php:29
+#: template-parts/post/content-gallery.php:29
+#: template-parts/post/content-image.php:30
+#: template-parts/post/content-video.php:30 template-parts/post/content.php:31
+#: template-parts/post/content.php:55
+msgid "by"
+msgstr "توسط"
+
+#: template-parts/post/content-audio.php:30
+#: template-parts/post/content-gallery.php:30
+#: template-parts/post/content-image.php:31
+#: template-parts/post/content-video.php:31 template-parts/post/content.php:32
+#: template-parts/post/content.php:56
+msgid "tags: "
+msgstr "برچسب:  "
