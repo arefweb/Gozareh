@@ -3,7 +3,7 @@ Contributor: Aref Movahedzadeh
 Requires at least: WordPress 4.7
 Tested up to: WordPress 5.2
 Requires PHP: 5.2.4
-Version: 1.0
+Version: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, full-width-template, theme-options, featured-images, post-formats, translation-ready, flexible-header, grid-layout, footer-widgets, rtl-language-support, blog
@@ -57,6 +57,10 @@ License: SIL Open Font License 1.1
 Source: https://github.com/google/fonts
 
 == Changelog ==
+
+= 1.1 =
+* Released: August 27, 2019
+*fixed some problems
 
 = 1.0 =
 * Released: August 27, 2019
